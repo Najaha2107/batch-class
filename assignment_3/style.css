@@ -1,0 +1,40 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fce4ec;
+    text-align: center;
+    padding: 30px;
+}
+
+h1 {
+    color: #ad1457;
+}
+
+#question {
+    color: #333;
+    font-size: 20px;
+}
+
+button {
+    background-color: white;
+    color: #333;
+    border: 1px solid #ad1457;
+    padding: 10px 20px;
+    margin: 8px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #f8bbd0;
+}
+
+#next, #restart {
+    background-color: #ad1457;
+    color: white;
+}
+
+#result {
+    font-weight: bold;
+    color: #ad1457;
+}
